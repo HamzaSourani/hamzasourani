@@ -11,6 +11,7 @@
 - 💬 Ask me about **React,Next.js,Javascript,Typescript,HTML,CSS**
 
 - 📫 How to reach me **hamzasourani98@gmail.com**
+- 🔥Show case <a href="https://hamza-sourani.vercel.app">portfolio</a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamzasorany&label=Profile%20views&color=0e75b6&style=flat" alt="hamzasorany" /> </p>
 
