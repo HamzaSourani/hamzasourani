@@ -6,7 +6,7 @@ background-color: #f0f0f0;  }
 <h3 align="center">Web developer, MERN stack specialist</h3>
 
 <img align="right" width="300px" src="https://media3.giphy.com/media/JqmupuTVZYaQX5s094/200.webp?cid=790b7611cxyl3odrybn90kgn90340jp785bwsr3kmu0yhthg&ep=v1_gifs_search&rid=200.webp&ct=g" alt="frontend-developer"/>
-- 🔭I'm currently seeking job opportunity in **UAE**
+- 🔭I'm currently working @ AirRetailer Technology LLC as Web Developer
 
 - 🌱 I’m currently learning **Nest.js**
 
